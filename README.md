@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# React With Redux Intro
+
+This is a simple Food List application for intro to React using Redux with Class and Functional components.
+
+## Setup
+
+    * Step 1 - Git Clone the application
+
+    * Step 2 - Install all required packages
+
+        ```
+        npm install
+        ```
+
+    * Step 3 - Start the Application
+
+        ```
+        npm start
+        ```
+
+    * Step 4 - Run the Application in Browser. This will list the foods.
+
+        ```
+        http://localhost:3000
+        ```
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
